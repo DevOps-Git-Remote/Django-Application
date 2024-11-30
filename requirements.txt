@@ -1,0 +1,5 @@
+Django>=3.0,<4.0
+psycopg2  # If using PostgreSQL
+django-environ  # If using environment variables
+gunicorn  # If you plan to use Gunicorn in production
+
